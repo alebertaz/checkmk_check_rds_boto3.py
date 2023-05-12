@@ -1,4 +1,4 @@
-# checkmk_check_rds_boto3.py
+# check_rds.py
 
 This is the Python3 and Boto3 converted version of the original Python2 and Boto2 "pmp-check-aws-rds" from GitHub user "percona":
 https://github.com/percona/percona-monitoring-plugins/blob/master/nagios/bin/pmp-check-aws-rds.py
